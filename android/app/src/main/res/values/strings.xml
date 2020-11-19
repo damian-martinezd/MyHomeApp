@@ -1,5 +1,0 @@
-<resources>
-    <string name="app_name">MyHomeApp</string>
-    <string name="welcome_message">Welcome to MyHomeApp Runner App</string>
-    <string name="welcome_suggestion">Force close to reload ern mini-app bundle</string>
-</resources>
